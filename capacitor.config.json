@@ -1,0 +1,6 @@
+{
+  "appId": "az.abituriyent.panel",
+  "appName": "Abituriyent Panel",
+  "webDir": "www",
+  "server": { "androidScheme": "https" }
+}
